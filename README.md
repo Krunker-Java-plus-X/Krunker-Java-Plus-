@@ -1,8 +1,13 @@
 # Krunker-Java-Plus-X
 Krunker new mod menu
 __________________________________
-NEW functions!!
+| NEW functions!!|   |
+|--------------------|-----|
+| Aimbot             |        |
+| Auto Reload        |        |
+| WallBang           |        |
 
+__________________________________
 :AimBot is 2.5.8 code so I don't know it work or it not work
 __________________________________
 >Krunker.io Hack v2.5.9✔️
