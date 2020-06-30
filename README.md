@@ -11,10 +11,16 @@ __________________________________
 __________________________________
 >Krunker Functions
 |Aimbot|It may work|
+
 |Bhop|WORK✅|
+
 |ESP|WORK✅|
+
 |AutoRelord|WORK✅|
+
 |Can Wall Bang|WORK✅|
+
+|-------------------|
 __________________________________
 >KRUNKER JAVA PLUS 𝓧 available now 
 - [TamperMonkey](https://github.com/Krunker-Java-plus-X/Krunker-Bhop-and-ESP-HAX) ✅
