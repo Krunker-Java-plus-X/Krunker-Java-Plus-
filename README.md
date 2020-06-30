@@ -1,4 +1,4 @@
-# Krunker-Java-Plus-
+# Krunker-Java-Plus-X
 Krunker new mod menu
 __________________________________
 NEW functions!!
