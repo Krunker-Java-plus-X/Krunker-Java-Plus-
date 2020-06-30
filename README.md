@@ -9,7 +9,7 @@ __________________________________
 - Make Krunker AimBot HAX - Make Krunker Extension HAX
 - Make ShellShock Aimbot
 __________________________________
-|-----------------|-----|
+
 |Krunker Functions|     |
 
 |Aimbot           |It may work|
@@ -21,7 +21,7 @@ __________________________________
 |AutoRelord       |WORK✅|
 
 |Can Wall Bang    |WORK✅|
-
+|-----------------|------|
 __________________________________
 >KRUNKER JAVA PLUS 𝓧 available now 
 - [TamperMonkey](https://github.com/Krunker-Java-plus-X/Krunker-Bhop-and-ESP-HAX) ✅
