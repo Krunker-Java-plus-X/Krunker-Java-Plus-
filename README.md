@@ -9,7 +9,9 @@ __________________________________
 - Make Krunker AimBot HAX - Make Krunker Extension HAX
 - Make ShellShock Aimbot
 __________________________________
->Krunker Functions
+|-----------------|------|
+|Krunker Functions|      |
+
 |Aimbot|It may work|
 
 |Bhop|WORK✅|
