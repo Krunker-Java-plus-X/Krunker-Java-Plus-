@@ -2,6 +2,8 @@
 Krunker new mod menu
 __________________________________
 NEW functions!!
+
+:AimBot is 2.5.8 code so I don't know it work or it not work
 __________________________________
 >Krunker.io Hack v2.5.9✔️
 __________________________________
